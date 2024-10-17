@@ -1,3 +1,6 @@
 [submodule "KenalBatik"]
 	path = KenalBatik
 	url = git@github.com:wildanzhafiri/KenalBatik.git
+[submodule "KenalBatikBE"]
+	path = KenalBatikBE
+	url = git@github.com:NupalHariz/KenalBatikBE.git

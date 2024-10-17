@@ -24,10 +24,6 @@ Proyek ini bertujuan untuk mengenalkan batik dengan pendekatan yang berbeda, sek
 ## User Flow
 ![Simple Flowchart (2)](https://github.com/user-attachments/assets/4d281ca1-e6e6-4485-980a-7d94df1afb5f)
 
-
-## Website Kenal Batik
-Kenal Batik sudah memiliki websitenya sendiri. Websitenya dapat diakses [disini](https://kenal-batik-jclqr15sb-wildan-zhafiris-projects.vercel.app/)
-
 ## How to use our website on localhost
 Untuk menjalankan kode kami, dibutuhkan 2 tools berikut:
 1. [Git](https://git-scm.com/downloads)
